@@ -18,6 +18,7 @@ To run this simulation, the CARLA simulator along with the assignment code needs
 1. install CARLA simulator as instructed in week 7 course 1 "Introduction to Self-Driving Cars".
 2. Create a subfolder "Course1FinalProject" under "PythonClient" folder which is found inside the "CarlaSimulator" (root) folder.
 3. Copy the contents of this folder "Course_1_Final_Project_Vehicle_Control" to the folder you created.
+4. Follow the rest of the instructions in the course to run the simulation.
   
 ## Simulation in Action
 You can view the simulation in real-time from [here](https://youtu.be/SwaFDSyjZF0).
