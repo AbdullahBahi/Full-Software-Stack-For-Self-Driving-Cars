@@ -1,5 +1,5 @@
-# Building-Full-Software-Stack-For-Self-Driving-Cars
-This repo contains all my work on [Coursera's Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars), the details of each project is found along with project files in the README files.  
+# Full-Software-Stack-For-Self-Driving-Cars
+This repo contains all my work on [Coursera's Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars), **the details of each project is found along with project files in the README files of each project.**  
   
 ## Specialization Overview
 This Specialization gives a comprehensive understanding of state-of-the-art engineering practices used in the self-driving car industry. I interacted with real data sets from an autonomous vehicle (AV)―all through hands-on projects using the open source simulator CARLA.  
