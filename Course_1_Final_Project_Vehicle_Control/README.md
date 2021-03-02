@@ -12,7 +12,7 @@ Since the controller reference contains both position and speed, I implemented b
   
 The [output of the controller](https://github.com/AbdullahBahi/Building-Full-Self-Driving-Car-Software-stack/tree/master/Course_1_Final_Project_Vehicle_Control/controller_output) is the vehicle throttle, brake, and steering angle commands. The throttle and brake come from the longitudinal speed control and the steering comes from the lateral control.  
   
-## How to run th simulation
+## How to run the simulation
 To run this simulation, the CARLA simulator along with the assignment code needs to be installed as follows:  
   
 1. install CARLA simulator as instructed in week 7 course 1 "Introduction to Self-Driving Cars".
